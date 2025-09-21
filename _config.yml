@@ -121,8 +121,8 @@ encrypt:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  # repo: https://github.com/xuqssq/xuqssq.github.io.git
-  repo: git@github.com:xuqssq/xuqssq.github.io.git
+  # repo: https://github.com/iloveaistory/iloveaistory.github.io.git
+  repo: git@github.com:iloveaistory/iloveaistory.github.io
   branch: main
 # 搜索插件
 search:
