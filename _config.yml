@@ -10,7 +10,7 @@ keywords: 治愈、温暖、心灵陪伴、情感故事、成长、夜晚树洞�
 author: Qian
 language: zh-CN
 timezone: Asia/Shanghai
-email: xuqssq@gmail.com
+email: 971124641@qq.com
 # ExtensionsPlugins:
 # - hexo-generator-feed
 # - hexo-generator-sitemap
@@ -30,7 +30,7 @@ sitemap:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://xuqssq.com
+url: https://iloveaistory.com
 root: /
 permalink: posts/:abbrlink.html
 permalink_defaults:
